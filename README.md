@@ -1,7 +1,6 @@
 # Hi there!! 
 
-Hello there! I am Navya Chikkabyranna from India, Bengaluru. I was working as Front-end developer at <a href='https://www.ibm.com/de-de' target='blank'>IBM</a>. Recently moved to Germany and looking for job there based on Reactjs.
-I am currently upskilling myself in nodejs and mongodb.
+Hello there! I am Navya Chikkabyranna from India, Bengaluru. I was working as Front-end developer at <a href='https://www.ibm.com/de-de' target='blank'>IBM</a>. Recently moved to Germany and looking for job there based on Reactjs,nodejs and mongodb.
   
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moulyac&show_icons=true" />
  -->
